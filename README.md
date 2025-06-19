@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Metrics](/github-metrics.svg)
-![Topics](./metrics.plugin.topics.icons.svg)
+<!-- ![Topics](./metrics.plugin.topics.icons.svg) -->
 <!--
 **AhmedEhabAgamy/AhmedEhabAgamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
