@@ -1,5 +1,3 @@
-![My GitHub Metrics](https://raw.githubusercontent.com/YOUR_USERNAME/metrics/master/metrics.svg)
-
 ## Hi there 👋
 
 <!--
