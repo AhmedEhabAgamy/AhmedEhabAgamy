@@ -18,6 +18,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=AA2BE2)
 ![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=AA2BE2)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=AA2BE2)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=AA2BE2)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=AA2BE2)
 ![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=AA2BE2)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter&logoColor=AA2BE2)
