@@ -4,8 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Data+Science+and+AI+Student" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" />
+</p>
 
-![Metrics](/github-metrics.svg)
 <!-- ![Topics](./metrics.plugin.topics.icons.svg) -->
 <!--
 **AhmedEhabAgamy/AhmedEhabAgamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
