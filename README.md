@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <strong>Welcome to my profile</strong> 👋
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Data+Science+and+AI+Student" alt="Typing SVG" />
+</p>
 
 ![Metrics](/github-metrics.svg)
 <!-- ![Topics](./metrics.plugin.topics.icons.svg) -->
