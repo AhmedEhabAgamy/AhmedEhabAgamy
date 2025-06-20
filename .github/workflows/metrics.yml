@@ -28,6 +28,9 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: Ahmed Agamy, AhmedEhabAgamy, AhmedEhabAgamy@users.noreply.github.com
 
+          # title color
+          config_color_titles: 8A2BE2
+
   icons:
     name: Icons
     runs-on: ubuntu-latest
