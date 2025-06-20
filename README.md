@@ -2,7 +2,7 @@
   <strong>Welcome to my profile</strong> 👋
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Data+Science+and+AI+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=AA2BE2&center=true&vCenter=true&width=435&lines=Data+Science+and+AI+Student" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" />
