@@ -21,7 +21,7 @@ jobs:
           # clender
           base: header, isocalendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           # languages
           plugin_languages: yes
